@@ -6,6 +6,5 @@
 
 [![Spotify Widget](https://enrinjr.com/api/spotify-widget)](https://enrinjr.com/pages/storyPage.html)
 
- click ↑ to explore 
 
 </div>
