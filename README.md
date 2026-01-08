@@ -3,6 +3,6 @@
 what i'm listening to today
 
 
-[![Spotify Widget](https://enrinjr.com/api/spotify-widget)](https://enrindebbarma.vercel.app/pages/storyPage.html)
+[![Spotify Widget](https://enrinjr.com/api/spotify-widget)](https://enrinjr.com/pages/storyPage.html)
 
 
